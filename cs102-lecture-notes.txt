@@ -1,0 +1,7 @@
+git --version shows the version of the git
+git config --global user.name "USERNAME" setting the username
+git config --global user.email "USERNAME@xyz.com" setting the email
+git clone (link of the repository) clones the repository to the local machine
+git commit commits the changes you made in the respected branch
+
+we learned how to use git to create repositories and edit them and storing them in an online server also we learned two ways of doing it first by using Github desktop app and second by using command line

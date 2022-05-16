@@ -1,0 +1,5 @@
+git --version shows the version of the git
+git config --global user.name "USERNAME" setting the username
+git config --global user.email "USERNAME@xyz.com" setting the email
+git clone (link of the repository) clones the repository to the local machine
+git commit commits the changes you made in the respected branch
